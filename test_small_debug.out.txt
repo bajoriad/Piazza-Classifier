@@ -1,0 +1,13 @@
+trained on 8 examples
+
+test data:
+correct = euchre, predicted = calculator, log-probability score = -inf
+content = my code segfaults when bob is the dealer
+
+correct = euchre, predicted = calculator, log-probability score = -inf
+content = no rational explanation for this bug
+
+correct = calculator, predicted = calculator, log-probability score = -inf
+content = countif function in stack class not working
+
+performance: 1 / 3 posts predicted correctly
